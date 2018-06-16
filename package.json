@@ -1,0 +1,33 @@
+{
+  "name": "pouchdb-adapter-rn-sqlite",
+  "version": "1.0.0",
+  "description": "PouchDB adapter using ReactNative SQLite Plugin as its data store.",
+  "homepage": "https://github.com/kkbhav/pouchdb-adapter-rn-sqlite",
+  "main": "./lib/index.js",
+  "keywords": [],
+  "author": {
+    "name": "Bhavesh Khandelwal",
+    "email": "bhav.khandelwal@gmail.com"
+  },
+  "license": "MIT",
+  "deprecated": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkbhav/pouchdb-adapter-rn-sqlite.git"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "pouchdb-adapter-rn-websql-core": "git+https://github.com/kkbhav/pouchdb-adapter-rn-sqlite.git"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/kkbhav/pouchdb-adapter-rn-sqlite/issues"
+  }
+}
