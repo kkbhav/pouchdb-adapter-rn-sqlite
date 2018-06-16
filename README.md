@@ -16,7 +16,8 @@ PouchDB adapter using ReactNative SQLite as its backing store.
 Install from npm:
 
 ```bash
-npm install pouchdb-react-native pouchdb-adapter-react-native-sqlite --save
+npm install pouchdb-react-native --save
+npm install https://github.com/kkbhav/pouchdb-adapter-rn-sqlite.git --save
 npm install https://github.com/kkbhav/pouchdb-adapter-rn-websql-core.git --save
 npm install --save https://github.com/kkbhav/react-native-fetch-blob.git
 react-native link react-native-fetch-blob
