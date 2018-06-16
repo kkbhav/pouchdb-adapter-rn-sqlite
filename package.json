@@ -21,9 +21,6 @@
   "scripts": {
     "test": "standard"
   },
-  "dependencies": {
-    "pouchdb-adapter-rn-websql-core": "git+https://github.com/kkbhav/pouchdb-adapter-rn-sqlite.git"
-  },
   "devDependencies": {
     "standard": "^10.0.2"
   },
